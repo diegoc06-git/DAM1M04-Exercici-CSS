@@ -21,3 +21,15 @@ a:hover {
     color: #4a90d9;
     text-decoration: underline;
 }
+
+
+.menu {
+    background-color: #f0f4fa;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#habilitats {
+    list-style: square;
+    color: #2c5aa0;
+}
