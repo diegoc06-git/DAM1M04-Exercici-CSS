@@ -41,3 +41,7 @@ li:first-child {
 li:last-child {
     color: #888888;
 }
+
+#habilitats > li {
+       margin-bottom: 5px;
+   }
