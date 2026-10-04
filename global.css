@@ -16,3 +16,8 @@ a {
     color: #1a3c6e;
     text-decoration: none;
 }
+
+a:hover {
+    color: #4a90d9;
+    text-decoration: underline;
+}
