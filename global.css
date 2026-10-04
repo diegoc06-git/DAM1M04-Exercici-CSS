@@ -43,13 +43,13 @@ li:last-child {
 }
 
 #habilitats > li {
-       margin-bottom: 5px;
-   }
+    margin-bottom: 5px;
+}
 
- h2::before {
-       content: "★ ";
-   }
+h2::before {
+    content: "★ ";
+}
 
-   a::after {
-       content: " →";
-   }
+a::after {
+    content: " →";
+}
