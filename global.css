@@ -1,3 +1,18 @@
 body {
     font-family: 'Roboto', Arial, sans-serif;
 }
+
+h1 {
+    color: #1a3c6e;
+}
+
+h2 {
+    color: #2c5aa0;
+    border-bottom: 2px solid #2c5aa0;
+    padding-bottom: 4px;
+}
+
+a {
+    color: #1a3c6e;
+    text-decoration: none;
+}
